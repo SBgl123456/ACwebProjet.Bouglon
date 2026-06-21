@@ -1,0 +1,73 @@
+Voici le CSS avec un thème sombre :
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    color: #222;
+}
+
+header {
+    background: #121212;
+    color: white;
+    padding: 15px 20px;
+}
+
+nav a {
+    color: #e0e0e0;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+main {
+    padding: 20px;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th {
+    background: #121212;
+    color: white;
+}
+
+input {
+    background: white;
+    color: #222;
+    border: 1px solid #ccc;
+}
+
+button {
+    background: #121212;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #333;
+    text-align: left;
+    color: black;
+}
+
+th {
+    background: #2a2a2a;
+    color: white;
+}
+
